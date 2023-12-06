@@ -1,0 +1,5 @@
+^renv$
+^renv\.lock$
+^rPackageTutorial\.Rproj$
+^\.Rproj\.user$
+^README\.Rmd$
